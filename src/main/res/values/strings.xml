@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Corona App</string>
+    <string name="gejala">Apakah anda merasakan gejala covid-19 ?</string>
+    <string name="desc_gejala">Jika anda merasa sakit dengan gejala covid-19 segera periksakan diri anda ka fasilitas kesehatan terdekat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
